@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38793859519",
+    "project_id": "jazzee-jobzz",
+    "storage_bucket": "jazzee-jobzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38793859519:android:0307ae9cb2a9808e8c910a",
+        "android_client_info": {
+          "package_name": "com.jazzee.jazzeejobzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGGcRws1NADQ0SSNEqm8ZHrR9V5w_do4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

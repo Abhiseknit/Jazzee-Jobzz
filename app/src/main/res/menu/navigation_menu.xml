@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:title="Home"
+
+            android:id="@+id/nav_home"
+           />
+        <item android:title="Make A Post"
+
+            android:id="@+id/nav_makepost"
+            />
+        <item android:title="My Profile"
+
+            android:id="@+id/nav_profile"
+            />
+        <item android:title="Explore Jobs"
+            android:id="@+id/nav_findjob"
+
+            />
+        <item android:title="Post Job"
+
+            android:id="@+id/nav_postjob"
+            />
+
+
+        <item android:title="My Job Posts"
+
+            android:id="@+id/nav_myjobposts"
+            />
+<item android:title="Find People"
+
+            android:id="@+id/nav_findconnections"
+           />
+
+        <item android:title="Settings"
+
+            android:id="@+id/nav_settings"
+           />
+        <item android:title="Log Out"
+
+            android:id="@+id/nav_logout"
+            />
+
+    </group>
+
+</menu>

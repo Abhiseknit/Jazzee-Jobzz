@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:orientation="vertical"
+    android:background="@color/red">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="60dp"
+        android:background="#FFFFFF"
+        android:padding="2dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        app:cardCornerRadius="200dp">
+
+        <ImageView
+            android:id="@+id/nav_profileicon"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="0dp"
+
+            android:background="@color/red"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/profile" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/nav_fullname"
+        android:layout_width="wrap_content"
+        android:layout_marginStart="38dp"
+
+        android:textAlignment="center"
+        android:textSize="27dp"
+        android:layout_height="50dp"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="-3dp"
+        android:text="user full name"
+        android:fontFamily="@font/poppins_semibold"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
