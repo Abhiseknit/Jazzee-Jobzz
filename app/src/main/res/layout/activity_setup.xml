@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    android:background="@color/white"
+    tools:context="SetupActivity"
+    tools:visibility="visible">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:background="@drawable/border"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        app:cardCornerRadius="200dp">
+
+        <ImageView
+            android:id="@+id/profileicon"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="0dp"
+
+            android:background="@color/red"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/profile" />
+    </androidx.cardview.widget.CardView>
+
+    <EditText
+        android:id="@+id/usernameofuser"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="User Name"
+        android:textColorHint="@color/red"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="360dp"
+        android:background="@drawable/border"
+        android:inputType="textMultiLine"
+        android:padding="5dp"
+        android:drawableLeft="@drawable/home"
+        android:visibility="visible" />
+
+    <EditText
+        android:id="@+id/fullnameofuser"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:padding="5dp"
+        android:hint="Your/Company/Institute Name"
+        android:textColorHint="@color/red"
+        android:drawableLeft="@drawable/home"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="420dp"
+        android:background="@drawable/border"
+        android:inputType="textPersonName"
+        android:visibility="visible" />
+
+    <EditText
+        android:id="@+id/countryofuser"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:padding="5dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="480dp"
+        android:hint="Country"
+        android:drawableLeft="@drawable/home"
+        android:textColorHint="@color/red"
+        android:background="@drawable/border"
+        android:inputType="textMultiLine"
+        android:visibility="visible" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="560dp"
+        android:hint="SAVE"
+        android:textColorHint="@color/white"
+        android:textSize="20dp"
+        android:id="@+id/setupbutton"
+        android:backgroundTint="@color/red"
+        />
+
+
+</RelativeLayout>

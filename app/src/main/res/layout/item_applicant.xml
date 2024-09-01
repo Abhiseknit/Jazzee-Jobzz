@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@color/red">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:elevation="4dp"
+        android:background="@drawable/border">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/applicant_profile_icon"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/profile"
+                    android:layout_marginEnd="16dp" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:id="@+id/applicant_full_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Applicant Full Name"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/red"
+                        />
+
+                    <TextView
+                        android:id="@+id/applicant_username"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Applicant Username"
+                        android:textColor="@color/red"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/applicant_phone_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Phone Number"
+                android:textColor="@color/red"
+                android:layout_marginTop="8dp" />
+
+            <TextView
+                android:id="@+id/applicant_age"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Age"
+                android:textColor="@color/red"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/applicant_education"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Educational Details"
+                android:textColor="@color/red"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/applicant_experience"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Experience"
+                android:textColor="@color/red"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/applicant_resume_link"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Resume Link"
+                android:textColor="@android:color/holo_blue_dark"
+                android:layout_marginTop="4dp" />
+
+            <TextView
+                android:id="@+id/applicant_interest_reason"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Why Interested"
+                android:textColor="@color/red"
+                android:layout_marginTop="4dp" />
+
+            <!-- Add more fields as necessary -->
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Jazzee Jobzz</string>
+    <string name="title_activity_drawer_actvity">DrawerActvity</string>
+    <string name="nav_header_title">Blog App</string>
+    <string name="nav_header_subtitle">youtube.com/artorean</string>
+    <string name="default_web_client_id">38793859519-h38a20rophci9fff8okvcp8rtb8ihb97.apps.googleusercontent.com</string>
+    <string name="menu_home">Home</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="menu_gallery">Publish Blog</string>
+    <string name="menu_slideshow">Profile</string>
+
+</resources>
