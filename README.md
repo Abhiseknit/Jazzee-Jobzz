@@ -30,4 +30,8 @@ Engage in online career fairs, workshops, and seminars directly through the app.
 ## Screenshots
 Below are screenshots demonstrating the various functionalities and user experiences within the Jazzee Jobzz app:
 
+![Alt Text](![Screenshot_20240903_222141](https://github.com/user-attachments/assets/de7d7f85-756b-43ba-9c63-32c21bf0440f)
+) ![Alt Text](![Screenshot_20240903_222141](https://github.com/user-attachments/assets/de7d7f85-756b-43ba-9c63-32c21bf0440f)
+) ![Alt Text](![Screenshot_20240903_222141](https://github.com/user-attachments/assets/de7d7f85-756b-43ba-9c63-32c21bf0440f)
+) 
 
