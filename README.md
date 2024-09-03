@@ -2,7 +2,7 @@
 
 Welcome to Jazzee Jobzz – a revolutionary platform designed to bridge the gap between students, companies, and educational institutions in the Indian job market. Jazzee Jobzz aims to streamline the hiring process by offering a comprehensive suite of tools for students to build their profiles, apply for jobs, and interact with recruiters while providing companies with a robust system for managing job postings and engaging with potential candidates. This platform also supports colleges and universities in facilitating job placements for their students.
 
-**Demo Video:** [Insert Loom Video Link Here]
+**Demo Video:** [Link to video](https://www.loom.com/share/ac9488e3b48e453c8b48c0642f264aee?sid=9867b7a3-92a8-45a8-99ca-c8a1e3fbb4ae "Open demo video")
 
 ## Key Features
 
