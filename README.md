@@ -30,8 +30,25 @@ Engage in online career fairs, workshops, and seminars directly through the app.
 ## Screenshots
 Below are screenshots demonstrating the various functionalities and user experiences within the Jazzee Jobzz app:
 
-![Alt Text](![Screenshot_20240903_222141](https://github.com/user-attachments/assets/de7d7f85-756b-43ba-9c63-32c21bf0440f)
-) ![Alt Text](![Screenshot_20240903_222141](https://github.com/user-attachments/assets/de7d7f85-756b-43ba-9c63-32c21bf0440f)
-) ![Alt Text](![Screenshot_20240903_222141](https://github.com/user-attachments/assets/de7d7f85-756b-43ba-9c63-32c21bf0440f)
-) 
-
+<table>
+  <tr>
+    <td><img src= https://github.com/user-attachments/assets/04e56c85-c26e-4fed-899b-1652d1c15767 alt="Screenshot 1" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/d010f03d-30f8-4d75-9329-738f8ed549d6 alt="Screenshot 2" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/489024db-1563-4094-be22-0af07061e703 alt="Screenshot 3" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src= https://github.com/user-attachments/assets/ac8a7b61-039f-4928-b3df-01be9525f139 alt="Screenshot 4" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/8c7b645a-911a-4990-95a3-f18a0acfe163 alt="Screenshot 5" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/c0d817ec-ad6d-424f-874c-ab245acd2f6e alt="Screenshot 6" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src= https://github.com/user-attachments/assets/9942b068-7604-4083-8b77-19539e484ed0 alt="Screenshot 7" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/e5156ab8-1938-400f-a2ec-630fa178df20 alt="Screenshot 8" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/397b552b-4282-461a-8d9a-488a16aabefd alt="Screenshot 9" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src= https://github.com/user-attachments/assets/59173201-65b7-40c5-aa9f-0486b1909c51 alt="Screenshot 10" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/60522438-4b62-4ac9-8bc8-cb52afcf275e alt="Screenshot 11" width="300"/></td>
+    <td><img src= https://github.com/user-attachments/assets/c6e30537-5db0-4244-8b5d-4be9bcb4b5b8 alt="Screenshot 12" width="300"/></td>
+  </tr>
+</table>
